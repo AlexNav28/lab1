@@ -1,3 +1,8 @@
 # lab1
-Hi guys  
+ls 
+cd
+pwd
+touch 
+cat
+
 
